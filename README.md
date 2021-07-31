@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TusharShitre
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on various Technological solutions  
+- 💞️ I’m looking to collaborate on various Technological solution development 
 - 📫 How to reach me tusharshitre22@gmail.com
 
 <!---
